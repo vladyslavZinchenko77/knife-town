@@ -1,0 +1,422 @@
+
+
+[
+    {
+    "title": "Berghoff Essentials 170 мм",
+    "price": 379,
+    "id": 1,
+    "url": "/img/1.png" ,
+    "type": "knife",
+    "isNew": true
+    
+
+},
+
+{
+    "title": "Tefal Jamie Oliver 12 см",
+    "price": 469,
+    "id": 2,
+    "url": "/img/2.png" ,
+    "type": "knife",
+    "isNew": false
+},
+
+{
+    "title": "Tefal Jamie Oliver",
+    "price": 579,
+    "id": 3,
+    "url": "/img/3.png" ,
+    "isNew": false,
+    "type": "knife"
+},
+{
+    "title": "Tefal Comfort",
+    "price": 379,
+    "id": 4,
+    "url": "/img/4.png" ,
+    "isNew": false,
+    "type": "knife"
+},
+{
+    "title": "Tramontina Dynamic",
+    "price": 501,
+    "id": 5,
+    "url": "/img/5.png" ,
+    "isNew": false,
+    "type": "knife"
+},
+{
+    "title": "Tramontina ProChef для хлеба",
+    "price": 1843,
+    "id": 6,
+    "url": "/img/6.png" ,
+    "isNew": false,
+    "type": "knife"
+},
+{
+    "title": "Aurora AU 890",
+    "price": 120,
+    "id": 7,
+    "url": "/img/7.png" ,
+    "isNew": true,
+    "type": "knife"
+},
+{
+    "title": "Кухонний ніж JJ087-TUO-B",
+    "price": 2840,
+    "id": 8,
+    "url": "/img/8.png" ,
+    "isNew": true,
+    "type": "knife"
+},
+{
+    "title": "Кухонний ніж SQ17-B",
+    "price": 467,
+    "id": 9,
+    "url": "/img/9.png" ,
+    "isNew": true,
+    "type": "knife"
+},
+{
+    "title": "Tramontina Utilita",
+    "price": 243,
+    "id": 10,
+    "url": "/img/10.png" ,
+    "isNew": true,
+    "type": "knife"
+},
+{
+    "title": "BergHOFF Essentials",
+    "price": 299,
+    "id": 11,
+    "url": "/img/11.png" ,
+    "isNew": true,
+    "type": "knife"
+},
+{
+    "title": "Tramontina Century ",
+    "price": 2285,
+    "id": 12,
+    "url": "/img/12.png" ,
+    "isNew": true,
+    "type": "knife"
+},
+{
+    "title": "сокира-тяпка для кісток і м'яса",
+    "price": 1510,
+    "id": 13,
+    "url": "/img/13.png" ,
+    "isNew": true,
+    "type": "knife"
+},
+{
+    "title": "Мусат Tramontina Plenus 22969/108 ",
+    "price": 379,
+    "id": 14,
+    "url": "/img/14.png" ,
+    "isNew": false,
+    "type": "knife sharpener"
+},
+{
+    "title": "Мусат Taidea T0843C",
+    "price": 742,
+    "id": 15,
+    "url": "/img/15.png" ,
+    "isNew": false,
+    "type": "knife sharpener"
+},
+{
+    "title": "Risam RE002 Coarse/medium",
+    "price": 2160,
+    "id": 16,
+    "url": "/img/16.png" ,
+    "isNew": false,
+    "type": "knife sharpener"
+},
+{
+    "title": "Точилка для ножей Krauff",
+    "price": 200,
+    "id": 17,
+    "url": "/img/17.png" ,
+    "isNew": false,
+    "type": "knife sharpener"
+},
+{
+    "title": "Fissman двухшаговой заточки",
+    "price": 429,
+    "id": 18,
+    "url": "/img/18.png" ,
+    "isNew": false,
+    "type": "knife sharpener"
+},
+{
+    "title": "Точилка Krauff ручная",
+    "price": 436,
+    "id": 20,
+    "url": "/img/20.png" ,
+    "isNew": false,
+    "type": "knife sharpener"
+},
+{
+    "title": "Work Sharp E2",
+    "price": 3740,
+    "id": 21,
+    "url": "/img/21.png" ,
+    "isNew": false,
+    "type": "knife sharpener"
+},
+{
+    "title": "Graef CC150",
+    "price": 12200,
+    "id": 22,
+    "url": "/img/22.png" ,
+    "isNew": false,
+    "type": "knife sharpener"
+},
+{
+    "title": "Fiskars Essential",
+    "price": 765,
+    "id": 23,
+    "url": "/img/23.png" ,
+    "isNew": false,
+    "type": "knife sharpener"
+},
+{
+    "title": "Fiskars Edge Черная",
+    "price": 893,
+    "id": 24,
+    "url": "/img/24.png" ,
+    "isNew": false,
+    "type": "knife sharpener"
+},
+{
+    "title": "Adjust Elite Knife Sharpener",
+    "price": 7950,
+    "id": 25,
+    "url": "/img/25.png" ,
+    "isNew": false,
+    "type": "knife sharpener"
+},
+{
+    "title": "RZTK Defender",
+    "price": 369,
+    "id": 26,
+    "url": "/img/26.png" ,
+    "isNew": true,
+    "type": "folding knives"
+},
+{
+    "title": "Нож складной RZTK Defender Black",
+    "price": 399,
+    "id": 27,
+    "url": "/img/27.png" ,
+    "isNew": false,
+    "type": "folding knives"
+},
+{
+    "title": "Нож складной Ganzo G6804 Серый",
+    "price": 750,
+    "id": 28,
+    "url": "/img/28.png" ,
+    "isNew": false,
+    "type": "folding knives"
+},
+{
+    "title": "Victorinox Fieldmaster 1.4713",
+    "price": 2196,
+    "id": 29,
+    "url": "/img/29.png" ,
+    "isNew": false,
+    "type": "folding knives"
+},
+{
+    "title": "Victorinox Waiter 0.3303",
+    "price": 958,
+    "id": 30,
+    "url": "/img/30.png" ,
+    "isNew": false,
+    "type": "folding knives"
+},
+{
+    "title": "Gerber Zilch - Drab Red 31-004069",
+    "price": 999,
+    "id": 31,
+    "url": "/img/31.png" ,
+    "isNew": false,
+    "type": "folding knives"
+},
+{
+    "title": "Gerber Paraframe II Tanto Blk SE",
+    "price": 1579,
+    "id": 32,
+    "url": "/img/32.png" ,
+    "isNew": false,
+    "type": "folding knives"
+},
+{
+    "title": "Ganzo Firebird FH922-GY0",
+    "price": 1390,
+    "id": 33,
+    "url": "/img/33.png" ,
+    "isNew": false,
+    "type": "folding knives"
+},
+{
+    "title": "Gerber Paraframe II DP SE",
+    "price": 1579,
+    "id": 34,
+    "url": "/img/34.png" ,
+    "isNew": false,
+    "type": "folding knives"
+},
+{
+    "title": "Victorinox Climber 1.3703.3",
+    "price": 1970,
+    "id": 35,
+    "url": "/img/35.png" ,
+    "isNew": false,
+    "type": "folding knives"
+},
+{
+    "title": "Civivi Brazen C2102C",
+    "price": 3460,
+    "id": 36,
+    "url": "/img/36.png" ,
+    "isNew": false,
+    "type": "folding knives"
+},
+{
+    "title": "Нож складной Ruike D198-PB",
+    "price": 1220,
+    "id": 37,
+    "url": "/img/37.png" ,
+    "isNew": false,
+    "type": "folding knives"
+},
+{
+    "title": "Нож Neo складной туристический",
+    "price": 529,
+    "id": 38,
+    "url": "/img/38.png" ,
+    "isNew": false,
+    "type": "folding knives"
+},
+{
+    "title": "Набір кухонних девайсів",
+    "price": 1290,
+    "id": 39,
+    "url": "/img/39.png" ,
+    "isNew": false,
+    "type": "Kitchen accessories"
+},
+{
+    "title": "Кухонний набір Фіолетовий 12s",
+    "price": 599,
+    "id": 40,
+    "url": "/img/40.png" ,
+    "isNew": false,
+    "type": "Kitchen accessories"
+},
+{
+    "title": "Kitchen Set із 13 предметів",
+    "price": 1300,
+    "id": 41,
+    "url": "/img/41.png" ,
+    "isNew": false,
+    "type": "Kitchen accessories"
+},
+{
+    "title": "Kitchen Set 12 предметів",
+    "price": 1300,
+    "id": 42,
+    "url": "/img/42.png" ,
+    "isNew": false,
+    "type": "Kitchen accessories"
+},
+{
+    "title": "Kitchen Dining KD-0350 PINK",
+    "price": 730,
+    "id": 43,
+    "url": "/img/43.png" ,
+    "isNew": false,
+    "type": "Kitchen accessories"
+},
+{
+    "title": "Kitchen Set із 13 предметів",
+    "price": 1150,
+    "id": 44,
+    "url": "/img/44.png" ,
+    "isNew": false,
+    "type": "Kitchen accessories"
+},
+{
+    "title": "Kitchen Set 12 предметів",
+    "price": 999,
+    "id": 45,
+    "url": "/img/45.png" ,
+    "isNew": false,
+    "type": "Kitchen accessories"
+},
+{
+    "title": "VESTA 5 предметів, чорний",
+    "price": 249,
+    "id": 46,
+    "url": "/img/46.png" ,
+    "isNew": false,
+    "type": "Kitchen accessories"
+},
+{
+    "title": "Kitchen Dining 12 предметів 0350",
+    "price": 799,
+    "id": 47,
+    "url": "/img/47.png" ,
+    "isNew": false,
+    "type": "Kitchen accessories"
+},
+{
+    "title": "5 предметів Stenson J01825",
+    "price": 216,
+    "id": 48,
+    "url": "/img/48.png" ,
+    "isNew": false,
+    "type": "Kitchen accessories"
+},
+{
+    "title": "Набір Кухонного приладдя",
+    "price": 205,
+    "id": 49,
+    "url": "/img/49.png" ,
+    "isNew": false,
+    "type": "Kitchen accessories"
+},
+{
+    "title": "Набір кухонний Кухарка",
+    "price": 119,
+    "id": 50,
+    "url": "/img/50.png" ,
+    "isNew": false,
+    "type": "Kitchen accessories"
+},
+{
+    "title": "IKEA FULLANDAD 5 шт.",
+    "price": 285,
+    "id": 51,
+    "url": "/img/51.png" ,
+    "isNew": false,
+    "type": "Kitchen accessories"
+},{
+    "title": "Graef Diamond CX110",
+    "price": 8239,
+    "id": 52,
+    "url": "/img/26.png" ,
+    "isNew": false,
+    "type": "knife sharpener"
+},{
+    "title": "Ruixin RX-003",
+    "price": 1380,
+    "id": 53,
+    "url": "/img/27.png" ,
+    "isNew": false,
+    "type": "knife sharpener"
+}
+]
